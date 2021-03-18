@@ -1,0 +1,6 @@
+/.vs
+*/x64/*
+*/release/*
+*/debug/*
+*.vcxproj
+*.vcxproj.*
